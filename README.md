@@ -3,4 +3,8 @@
 - Visual Studio Code
 - Selenium
 ## 결과 사진
-<img></img>
+![Langauge:Python](https://img.shields.io/badge/Language-Python-blue)
+<br>
+
+### 진행한 챕터
+<img src="naver_인공지능.png" alt="Intro Screen" width="1000px" height="500px">
